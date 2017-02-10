@@ -1,6 +1,6 @@
 # Game of Life
 
-This is a result of a Scala Coding Dojo from 9.02.2017
+This is a result of a Scala Coding Dojo on 9.02.2017
 
 https://www.meetup.com/london-scala/
 
